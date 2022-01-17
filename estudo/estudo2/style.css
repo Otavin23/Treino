@@ -1,0 +1,24 @@
+body{
+    background-color:#313c52;
+}
+header h1{
+    color: white;
+}
+#dias-semanas p{
+    color: #f1c40f;
+}
+#dias-semanas li{
+    color: white;
+}
+#segunda h2, #terca h2 ,#quart h2{
+    background-color: #f1c40f;
+}
+#segunda li{
+    color: white;
+}
+.white{
+    color: white;
+}
+.red{
+    color: red;
+}
